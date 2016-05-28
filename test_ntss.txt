@@ -1,1 +1,2 @@
-Ntss test file_git
+Ntss test file_git.
+Second commit.
